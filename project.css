@@ -69,10 +69,9 @@ label {
 .nav-tabs>li>a {
     margin-right: 2px ;
     line-height: 1.42857143 ;
-    border: 1px solid transparent ;
+    border: 1px solid transparent;
     border-radius: 4px 4px 0px 0px;
     padding: 5px ;
-    margin: 0px 4px;
     color: #9BB8D6;
     background-color: #004080;
     opacity: 0.7;

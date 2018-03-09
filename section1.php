@@ -20,7 +20,7 @@
         <li class="tab-style"><a data-toggle="tab" href="#menu2" >Convert Html file</a></li>
         <li class="tab-style"><a data-toggle="tab" href="#menu3" >Convert Html Code</a></li>
       </ul>
-      <div class="tab-content" style="background-color: #004080; opacity: 0.7; border-radius: 5px 10px 10px 10px;margin: 1px; padding: 1px;">
+      <div class="tab-content" style="background-color: #004080; opacity: 0.7; border-radius: 0px 10px 10px 10px;margin: 1px 0px; padding: 1px;">
         <div id="menu1" class="tab-pane fade in active">
           <div class="row" style=" padding: 68px 0px 20px 35px;">
           <form action="" class="form-inline">
