@@ -1,19 +1,19 @@
 <div id="footer" class="container-fluid" style="border-top: 1px solid #337ab7;">
   <div class="row">
     <div class="col-md-4">
-        <a href="#">
+        <a href="https://www.facebook.com/brainxtech/" target="_blank">
           <img src="img\facebook@2x.png" alt="HTML tutorial" style=" width: 20px; height: 20px;margin:9px 2px 9px 2px;">
         </a>
-        <a href="#">
+        <a href="https://www.linkedin.com/company/13258108/" target="_blank">
           <img src="img\linkedin@2x.png" alt="HTML tutorial" style=" width: 20px; height: 20px;margin:9px 2px 9px 2px;">
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/brainxtechs/" target="_blank">
           <img src="img\instagram@2x.png" alt="HTML tutorial" style=" width: 20px; height: 20px;margin:9px 2px 9px 2px;">
         </a>
-        <a href="#">
+        <a href="https://twitter.com/BrainXTechs" target="_blank">
           <img src="img\twitter@2x.png" alt="HTML tutorial" style=" width: 20px; height: 20px;margin:9px 2px 9px 2px;">
         </a>
-        <p>Made by <strong>BrainX Technologies</strong> </p>
+        <p>Made by <b>BrainX Technologies</b> </p>
     </div>
 
     <div class="col-md-4" style=" position: relative;top: 35px;">
