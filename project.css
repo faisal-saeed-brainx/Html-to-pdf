@@ -35,7 +35,7 @@ label {
   font-size: 15px;
   padding: 2px;
   margin: 4px;
-  float: right;
+  /*float: right;*/
   }
 
 /* mouse over link */
@@ -502,3 +502,8 @@ label {
 #footer {
   border-top: 1px solid #337ab7 !important;
 }
+
+.pill-col {
+    text-align: -webkit-center;
+    
+  }
